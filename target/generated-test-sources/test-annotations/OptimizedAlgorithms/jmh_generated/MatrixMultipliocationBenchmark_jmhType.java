@@ -1,0 +1,4 @@
+package OptimizedAlgorithms.jmh_generated;
+public class MatrixMultipliocationBenchmark_jmhType extends MatrixMultipliocationBenchmark_jmhType_B3 {
+}
+
